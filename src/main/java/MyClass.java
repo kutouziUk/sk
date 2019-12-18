@@ -10,6 +10,6 @@ public class MyClass {
      * @return void
      **/
         public void s(int a ,int s){
-            
+            System.out.println("你妹的");
         }
 }
